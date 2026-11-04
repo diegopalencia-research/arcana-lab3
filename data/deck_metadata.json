@@ -1,0 +1,24 @@
+{
+  "deck_model": "Rider-Waite-Smith inspired learning dataset",
+  "card_count": 78,
+  "arcana_count": 22,
+  "minor_arcana_count": 56,
+  "meaning_policy": "Concise original paraphrases for learning; not quotations from source texts.",
+  "correspondence_policy": "Golden Dawn / Book T associations are explicitly labeled and should not be treated as universal tarot facts.",
+  "source_references": [
+    {
+      "title": "The Pictorial Key to the Tarot",
+      "author": "A. E. Waite",
+      "year": 1911,
+      "url": "https://sacred-texts.com/tarot/pkt/pkttp.htm"
+    },
+    {
+      "title": "Book T / Golden Dawn tarot decan correspondences",
+      "url": "https://jantetteroo.com/wp-content/uploads/2023/02/Mathers_and_felkin_golden_dawn_book_t_th.pdf"
+    },
+    {
+      "title": "Golden Dawn zodiac and tarot attributions explanatory reference",
+      "url": "https://totallytarot.net/library/zodiaccard/golden-dawn-attributions"
+    }
+  ]
+}
